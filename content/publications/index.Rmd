@@ -1,33 +1,12 @@
 ---
+title: Publications
 description: |
   My research employs a mix of statistical and computational approaches to assess past change and forecast future change in marine ecosystems. Here are some of my current projects:
-show_post_thumbnail: false
-thumbnail_left: false
-show_author_byline: false
-show_post_date: false
-show_button_links: true
+date: 2023-10-02
 layout: single
-
-
-# set up common front matter for all pages inside blog/
-cascade:
-  show_author_byline: false
-  show_post_date: false
-  show_comments: false # see site config to choose Disqus or Utterances
-  # for single-sidebar layout
-  sidebar:
-    text_link_label: View recent posts
-    text_link_url: /research/
-    show_sidebar_adunit: false # show ad container
 ---
 
-```{r include = FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-library("downloadthis")
-```
-
-```{css}
+```{css echo = FALSE}
 .button_custom {
   font-family: "Commissioner";
   font-size: 18px;
@@ -45,14 +24,7 @@ library("downloadthis")
 
 O'Leary, Bockmon, **Goodman**, Grimsditch, Madej, Mohammed, & Tyburczy (2023). *Conserving and Managing Estuaries during Climate Change*, In: Climate CHange and Estuaries
 
-```{r}
-downloadthis::download_link(
-  "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003126096-35/conserving-managing-estuaries-climate-change-leary-bockmon-goodman-grimsditch-madej-mohammed-tyburczy", 
-  "Book Chapter", 
-  icon = "fa fa-book", class = "button_custom", 
-  button_type = "primary"
-)
-```
+<a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003126096-35/conserving-managing-estuaries-climate-change-leary-bockmon-goodman-grimsditch-madej-mohammed-tyburczy"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Book chapter</button></a> 
 
 
 Faiad, Williams, **Goodman**, ..., Wood (2023). *Temperature affects predation of schistosome-competent snails by a novel invader, the marbled crayfish Procambarus virginalis*, PLoS One
@@ -103,3 +75,6 @@ Hart, **Goodman**, Walter, Rogers-Bennett, Shum, Garrett, Watanabe, & O'leary (2
 **Goodman**, Hannah, & Ruttenberg (2019). *The relationship between geographic range extent, sea surface temperature and adult traits in coastal temperate fishes*, Journal of Biogeography
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13595"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
+<a href="https://datadryad.org/stash/dataset/doi:10.5061/dryad.8n4pn0b"><button class="btn btn-primary button_custom"><i class="fa fa-database"></i> Data</button></a>
+
+<br/>
