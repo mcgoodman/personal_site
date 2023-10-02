@@ -34,7 +34,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/fish.ico"
   logo = "/img/pacific_cod_simple.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["research", "teaching & outreach", "publications"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
