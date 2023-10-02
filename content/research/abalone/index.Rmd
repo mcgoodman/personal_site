@@ -1,0 +1,26 @@
+---
+title: "Climate-informed stock assessment"
+subtitle: "Integrating environmental variability into a stock assessment model for abalone in Isla Natividad, Baja, Mexico"
+excerpt: "Description"
+date: 2023-10-01
+draft: false
+layout: single
+---
+
+Paragraph 1
+
+-----------
+
+![Description]()
+
+-----------
+
+Paragraph 2
+
+-----------
+
+![Description]()
+
+-----------
+
+Paragraph 3

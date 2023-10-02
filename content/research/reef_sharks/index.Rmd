@@ -1,0 +1,26 @@
+---
+title: "Small-scale shark fisheries"
+subtitle: "Subtitle"
+excerpt: "Description"
+date: 2023-09-30
+draft: false
+layout: single
+---
+
+Paragraph 1
+
+-----------
+
+![Description](featured.png)
+
+-----------
+
+Paragraph 2
+
+-----------
+
+![Description](posterior_trends.png)
+
+-----------
+
+Paragraph 3
