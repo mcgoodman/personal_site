@@ -1,7 +1,5 @@
 ---
-title: Publications
 description: |
-  My research employs a mix of statistical and computational approaches to assess past change and forecast future change in marine ecosystems. Here are some of my current projects:
 date: 2023-10-02
 layout: single
 ---

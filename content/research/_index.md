@@ -9,7 +9,7 @@ show_post_date: false
 show_button_links: false
 layout: list
 
-# set up common front matter for all pages inside blog/
+
 cascade:
   show_author_byline: false
   show_post_date: false

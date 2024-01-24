@@ -1,6 +1,6 @@
 ---
 action_label: My Projects &rarr;
-action_link: /about
+action_link: /research
 action_type: text
 description: Welcome! I'm a PhD Candidate at Stanford's Hopkins Marine Station studying climate impacts on the biogeography, population dynamics, and predator-prey ecology of marine species. I combine field and experimental data with a variety of computational approaches - including correlative species distribution models and dynamical population models - to make inferences about climate impacts on coastal marine species and the animals they interact with.
 image_left: true

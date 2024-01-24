@@ -1,6 +1,7 @@
 
 baseURL = "/"
-theme = "hugo-apero"
+theme = ["hugo-apero", "hugo-embed-pdf-shortcode"]
+enableInlineShortcodes = true
 languageCode = "en"
 title = "Maurice Goodman"
 author = "Maurice Goodman"
@@ -34,7 +35,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/fish.ico"
   logo = "/img/pacific_cod_simple.png"
-  mainSections = ["research", "teaching & outreach", "publications"]
+  mainSections = ["research", "teaching & outreach", "publications", "contact", "CV"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -84,7 +85,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "goodman3@stanford.edu"
+      url       = "mailto:goodman3@stanford.edu"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -120,11 +121,16 @@ enableEmoji = true
     title = "publications"
     url = "/publications/"
     weight = 3
+   [[menu.header]]
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 4
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/CV/"
-    weight = 4
+    weight = 5
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
