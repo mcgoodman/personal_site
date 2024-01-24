@@ -71,8 +71,7 @@ Paper Code
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>Quantiative EcologyIn this example, the image will float to the left in the paragraph, and the text in the paragraph will wrap around the image.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.</description>
+      <description>Quantitative EcologyI feel strongly that the typical approach to teaching statistics to ecologists - as a collection of seemingly unrelated modeling techniques with strict assumptions - leaves students intimidated by the prospect of working with data. In fact, most of the statistical techniques that an ecologist needs in their toolbox can be understood as part of a cohesive and extensible framework. As an instructor for Stanford&#39;s Quantitative Ecology course, I&#39;ve developed course materials and lesson plans to give students a crash course on the fundamentals - including probability, likelihood, and parameter estimation - and lead them in applying these methods to increasingly complex problems so that students are able to understand the reasoning underlying common methods such as GLMs and (hopefully) feel comfortable stepping out of pre-packaged methods when they need to.</description>
     </item>
     
   </channel>
