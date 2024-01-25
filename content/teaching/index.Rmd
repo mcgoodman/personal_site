@@ -22,7 +22,7 @@ img {
 <h2>Quantitative Ecology</h2>
 
 
-<p><img src="thrasher.PNG" alt="A species range map" style="width:350px;height:350px;margin-right:30px;">
+<p><img src="thrasher.jpg" alt="A species range map" style="width:350px;height:350px;margin-right:30px;">
 I feel strongly that the typical approach to teaching statistics to ecologists - as a collection of seemingly unrelated modeling techniques with strict assumptions - leaves students intimidated by the prospect of working with data. In fact, most of the statistical techniques that an ecologist needs in their toolbox can be understood as part of a cohesive and extensible framework. As an instructor for Stanford's Quantitative Ecology course, I've developed course materials and lesson plans to give students a crash course on the fundamentals - including probability, likelihood, and parameter estimation - and lead them in applying these methods to increasingly complex problems so that students are able to understand the reasoning underlying common methods such as GLMs and (hopefully) feel comfortable stepping out of pre-packaged methods when they need to. I take a mix of traditional and "flipped classroom" approaches, pre-recording lectures and using class time to work through labs together and discuss concepts. Course materials are developed in R, R markdown, and R Shiny, and are avaiable on my github.</p>
 
 <br><br>
