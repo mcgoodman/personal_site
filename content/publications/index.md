@@ -9,10 +9,17 @@ layout: single
   font-family: "Commissioner";
   font-size: 18px;
   color: #242424;
-  border: 0;
+  border: 1px solid #242424;
   padding: 8px 24px;
-  border-radius: 8px;
-  outline: none;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.button_custom:hover {
+  background-color: #242424;
+  color: white;
+  border: 1px solid #242424;
+  border-radius: 3px;
 }
 </style>
 
