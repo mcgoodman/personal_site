@@ -43,7 +43,7 @@
         <meta name="twitter:image" content="https://www.goodmanecology.com/img/papillons.jpg" >
     
   <meta itemprop="name" content="">
-<meta itemprop="description" content="PreviousNext &nbsp; &nbsp;/ [pdf]View the PDF file here."><meta itemprop="datePublished" content="2023-10-02T00:00:00+00:00" />
+<meta itemprop="description" content="&nbsp&nbsp Prev/ Next&nbsp&nbsp &nbsp; &nbsp;View the PDF file here."><meta itemprop="datePublished" content="2023-10-02T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-10-02T00:00:00+00:00" />
 <meta itemprop="wordCount" content="11">
 <meta itemprop="keywords" content="" />
@@ -112,7 +112,25 @@
 
       </header>
       <section class="post-body pt5 pb4">
-        <script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+        <style type="text/css">
+.button_custom {
+  font-family: "Commissioner";
+  font-size: 14px;
+  color: #242424;
+  border: 1px solid white;
+  padding: 8px 24px;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.button_custom:hover {
+  background-color: white;
+  color: #4cbfb3;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+</style>
+<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
 
 <style>
   #embed-pdf-container {
@@ -173,16 +191,16 @@
     position: relative;
     top: 10px;
     right: 4px;
-    color: #000;
+    color: #242424;
     margin: auto;
-    background-color: #eeeeee;
+    background-color: white;
     padding: 0.3em 1em;
-    border: solid 2px;
-    border-radius: 12px;
-    border-color: #00000030;
+    border: solid 1px;
+    border-radius: 3px;
+    border-color: #242424;
     text-decoration: none;
   }
-  
+
   #overlayText svg {
     height: clamp(1em, 2vw, 1.4em);
     width:  clamp(1em, 2vw, 1.4em);
@@ -201,7 +219,7 @@
         <div class="pdf-loading" id="pdf-loading-95fbe889"></div>
     </div>
     <div id="overlayText">
-      <a href="./Maurice_Goodman_CV.pdf" aria-label="Download" download>
+      <b href="./Maurice_Goodman_CV.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
@@ -211,12 +229,11 @@
 </div>
 
 <div class="pdf-paginator" id="pdf-paginator-95fbe889">
-    <button id="pdf-prev-95fbe889">Previous</button>
-    <button id="pdf-next-95fbe889">Next</button> &nbsp; &nbsp;
-    <span>
+    <button class="btn btn-primary button_custom" id="pdf-prev-95fbe889"><i class="fa fa-solid fa-arrow-left"></i>&nbsp&nbsp Prev</button>
+<span>
       <span class="pdf-pagenum" id="pdf-pagenum-95fbe889"></span> / <span class="pdf-pagecount" id="pdf-pagecount-95fbe889"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-95fbe889" href="./Maurice_Goodman_CV.pdf">[pdf]</a>
+    <button class="btn btn-primary button_custom" id="pdf-next-95fbe889">Next&nbsp&nbsp<i class="fa fa-solid fa-arrow-right"></i></button> &nbsp; &nbsp;
 </div>
 
 <noscript>
