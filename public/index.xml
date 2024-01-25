@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maurice Goodman</title>
-    <link>/</link>
+    <link>https://www.goodmanecology.com/</link>
     <description>Recent content on Maurice Goodman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.goodmanecology.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forecasting species ranges and spatial overlap</title>
-      <link>/research/bering_ch2-3/</link>
+      <link>https://www.goodmanecology.com/research/bering_ch2-3/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/research/bering_ch2-3/</guid>
+      <guid>https://www.goodmanecology.com/research/bering_ch2-3/</guid>
       <description>One of my main areas of interest is biogeography - where do we find marine species, what are the factors that control their distribution, and where might we find them in the future? As part of the ACLIM (Alaska Climate Integrated Modeling) series of projects led by researchers at NOAA’s Alaska Fisheries Science Center, I’m developing a suite of species distribution models for groundfish and crabs in the eastern Bering Sea region to support climate-ready fisheries management.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/cv/</link>
+      <link>https://www.goodmanecology.com/cv/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>https://www.goodmanecology.com/cv/</guid>
       <description>PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.</description>
     </item>
     
     <item>
       <title>Predator-prey overlap and predation</title>
-      <link>/research/bering_ch1/</link>
+      <link>https://www.goodmanecology.com/research/bering_ch1/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/research/bering_ch1/</guid>
+      <guid>https://www.goodmanecology.com/research/bering_ch1/</guid>
       <description>Many studies in marine ecosystems have documented species range shifts in response to climate change, and many more have used species distribution models to project species ranges under future conditions. More recently, multiple studies have employed projections from species distribution models to “rewire” food webs under future environmental changes, moving beyond a single-species focus to characterize ecosystem dynamics via changes in trophic interactions. Presumably, as the spatial overlap between fish and their predators changes over time, so too should predation rates (integrated across space) - but how well can we predict trophic interactions from predator-prey overlap?</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>https://www.goodmanecology.com/publications/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>https://www.goodmanecology.com/publications/</guid>
       <description>2023O’Leary, Bockmon, Goodman, Grimsditch, Madej, Mohammed, &amp;amp; Tyburczy (2023). Conserving and Managing Estuaries during Climate Change, In: Climate CHange and Estuaries
 Book chapter
 Faiad, Williams, Goodman, …, Wood (2023). Temperature affects predation of schistosome-competent snails by a novel invader, the marbled crayfish Procambarus virginalis, PLoS One
@@ -49,28 +49,28 @@ Paper Code
     
     <item>
       <title>Small-scale fisheries embedded in global trade networks</title>
-      <link>/research/reef_sharks/</link>
+      <link>https://www.goodmanecology.com/research/reef_sharks/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/research/reef_sharks/</guid>
+      <guid>https://www.goodmanecology.com/research/reef_sharks/</guid>
       <description>Small-scale fisheries are immensely important for the livelihoods, nutrition, and cultural identities of millions of people around the world. However, the impacts of small-scale fisheries on vulnerable marine populations, such as sharks, are less well understood than those of industrial fisheries. Alongside colleagues, I’ve constructed a model to investingate the impacts of a small-scale reef shark fishery, parameterized with data from a Kiribati grey reef shark fishery where reef sharks have been harvested at relatively low rates for cultural and subsistence purposes for generations.</description>
     </item>
     
     <item>
       <title>Contact me</title>
-      <link>/contact/</link>
+      <link>https://www.goodmanecology.com/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://www.goodmanecology.com/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **</description>
     </item>
     
     <item>
       <title></title>
-      <link>/teaching/</link>
+      <link>https://www.goodmanecology.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://www.goodmanecology.com/teaching/</guid>
       <description>Quantitative EcologyI feel strongly that the typical approach to teaching statistics to ecologists - as a collection of seemingly unrelated modeling techniques with strict assumptions - leaves students intimidated by the prospect of working with data. In fact, most of the statistical techniques that an ecologist needs in their toolbox can be understood as part of a cohesive and extensible framework. As an instructor for Stanford&#39;s Quantitative Ecology course, I&#39;ve developed course materials and lesson plans to give students a crash course on the fundamentals - including probability, likelihood, and parameter estimation - and lead them in applying these methods to increasingly complex problems so that students are able to understand the reasoning underlying common methods such as GLMs and (hopefully) feel comfortable stepping out of pre-packaged methods when they need to.</description>
     </item>
     

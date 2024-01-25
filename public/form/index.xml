@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forms on Maurice Goodman</title>
-    <link>/form/</link>
+    <link>https://www.goodmanecology.com/form/</link>
     <description>Recent content in Forms on Maurice Goodman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="/form/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="https://www.goodmanecology.com/form/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact me</title>
-      <link>/contact/</link>
+      <link>https://www.goodmanecology.com/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://www.goodmanecology.com/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **</description>
     </item>
     
