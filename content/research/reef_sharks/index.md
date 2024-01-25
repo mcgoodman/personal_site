@@ -1,6 +1,6 @@
 ---
 title: "Small-scale fisheries embedded in global trade networks"
-subtitle: "Subtitle"
+subtitle: "Modeling remote Kiribati small-scale shark fisheries in the era of globalization"
 excerpt: "Small-scale fisheries are immensely important for the livelihoods, nutrition, and cultural identities of millions of people around the world. However, many are intricately interwoven with global trade networks which reshape cultural relationships with resources such as sharks, enabling serial depletion of the stocks of some species. Focusing on Kiribati, we evaluate the impacts of a small-scale reef shark fishery and the cultural attitudes surronding reef shark fishing and Kiribati's recent shark fishing ban."
 date: 2023-09-30
 draft: false
