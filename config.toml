@@ -1,6 +1,6 @@
 
 baseURL = "https://www.goodmanecology.com/"
-theme = ["hugo-apero", "hugo-embed-pdf-shortcode"]
+theme = ["hugo-apero"]
 enableInlineShortcodes = true
 languageCode = "en"
 title = "Maurice Goodman"

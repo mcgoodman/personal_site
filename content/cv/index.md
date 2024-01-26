@@ -24,4 +24,5 @@ layout: single
 }
 </style>
 
+
 {{< embed-pdf url="./Maurice_Goodman_CV.pdf" >}}
