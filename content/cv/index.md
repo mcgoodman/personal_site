@@ -25,4 +25,4 @@ layout: single
 </style>
 
 
-{{< embed-pdf url="./Maurice_Goodman_CV.pdf" >}}
+{{< embed-pdf2 url="./Maurice_Goodman_CV.pdf" >}}
