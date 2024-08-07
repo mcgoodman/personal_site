@@ -25,9 +25,21 @@ layout: single
 
 <font size = "4">
 
+<h2> 2024 </h2>
+
+Gissi, **Goodman**, Elahi, McDevitt-Irwin, Arnoldi, Arafeh-Dalmau, Knight, Jacobson, Palmisciano, Tillman, De Leo, & Micheli (2024). *Sex-specific variation in species interactions matters in ecological communities*, Trends in Ecology & Evolution
+
+<a href="https://doi.org/10.1016/j.tree.2024.07.006"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a>
+
+Rempel, Bodwin, Burkepile, Adam, Altieri, Barton, **Goodman**, Lamore, Lippert, Marroquin, O'Rourke, VanderBloomer, & Ruttenberg (2024). *Ecological drivers of parrotfish predation vary across spatial scales*, Marine Ecology Progress Series
+
+<a href="https://doi.org/10.3354/meps14633"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a>
+
+<br/>
+
 <h2> 2023 </h2>
 
-O'Leary, Bockmon, **Goodman**, Grimsditch, Madej, Mohammed, & Tyburczy (2023). *Conserving and Managing Estuaries during Climate Change*, In: Climate CHange and Estuaries
+O'Leary, Bockmon, **Goodman**, Grimsditch, Madej, Mohammed, & Tyburczy (2023). *Conserving and Managing Estuaries during Climate Change*, In: Climate Change and Estuaries
 
 <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003126096-35/conserving-managing-estuaries-climate-change-leary-bockmon-goodman-grimsditch-madej-mohammed-tyburczy"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Book chapter</button></a> 
 
@@ -59,13 +71,16 @@ McCalla, Phillips, Anderson, Voorhees, Siegler, Faulkenberry, **Goodman**, Deng,
 
 <br/>
 
-<h2> Earlier </h2>
+<h2> 2021 </h2>
 
 O’Leary, **Goodman**, Walter, Willits, Pondella, & Stephens (2021). *Effects of estuary-wide seagrass loss on fish populations*, Estuaries and Coasts
 
 <a href="https://link.springer.com/article/10.1007/s12237-021-00917-2"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
 <a href="https://github.com/mcgoodman/OLeary-et-al_2020_ESCO"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a>
 
+<br/>
+
+<h2> 2020 </h2>
 
 O’Leary, **Goodman**, Tuda, Machumu,  & West (2020). *Opportunities and challenges in achieving co-management in marine protected areas in East Africa: a comparative case study*, Journal of the Indian Ocean Region
 
@@ -76,6 +91,9 @@ Hart, **Goodman**, Walter, Rogers-Bennett, Shum, Garrett, Watanabe, & O'leary (2
 
 <a href="https://doi.org/10.2983/035.039.0218"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
 
+<br/>
+
+<h2> 2019 </h2>
 
 **Goodman**, Hannah, & Ruttenberg (2019). *The relationship between geographic range extent, sea surface temperature and adult traits in coastal temperate fishes*, Journal of Biogeography
 

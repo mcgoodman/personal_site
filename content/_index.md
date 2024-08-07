@@ -2,7 +2,7 @@
 action_label: My Projects &rarr;
 action_link: /research
 action_type: text
-description: Welcome! I'm a PhD Candidate at Stanford's Hopkins Marine Station studying climate impacts on the biogeography, population dynamics, and predator-prey ecology of marine species. I combine field and experimental data with a variety of computational approaches - including correlative species distribution models and dynamical population models - to make inferences about climate impacts on coastal marine species and the animals they interact with.
+description: Welcome! I'm a Research Scientist with Andre Punt & Kirstin Holsman at the University of Washington and NOAA Alaska Fisheries Science Center. My research combines field and experimental data with a variety of computational approaches - including correlative species distribution models and dynamical population models - to make inferences about climate impacts on the biogeography, population dynamics, and predator-prey ecology of marine species.
 image_left: true
 images:
 - img/Morris_and_Bindi.jpg
