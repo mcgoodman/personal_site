@@ -27,6 +27,10 @@ layout: single
 
 <h2> 2024 </h2>
 
+Kumagai, **Goodman**, Villasenor-Derbez, Schoeman, Cavanuagh, Bell, Micheli, De Leo, & Arafeh-Dalmau (2024). *Marine protected areas that preserve trophic cascades promote resilience of kelp forests to marine heatwaves*, Global Change Biology
+
+<a href="https://doi.org/10.1111/gcb.17620"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a>
+
 Gissi, **Goodman**, Elahi, McDevitt-Irwin, Arnoldi, Arafeh-Dalmau, Knight, Jacobson, Palmisciano, Tillman, De Leo, & Micheli (2024). *Sex-specific variation in species interactions matters in ecological communities*, Trends in Ecology & Evolution
 
 <a href="https://doi.org/10.1016/j.tree.2024.07.006"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a>
