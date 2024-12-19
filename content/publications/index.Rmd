@@ -35,7 +35,7 @@ layout: single
 <a href="https://mgoodman.shinyapps.io/aclim2_sdms_explorer/"><button class="btn btn-primary button_custom"><i class="fa fa-cloud"></i> Web App</button></a> <b>&emsp;</b>
 <a href="https://www.fisheries.noaa.gov/feature-story/some-fish-and-crab-may-shift-further-north-alaskan-waters-previously-predicted"><button class="btn btn-primary button_custom"><i class="fa fa-newspaper"></i> Press Release</button></a>
 
-**Goodman**, White, Kazdan, Bradley, Shivji, Casagrandi, Mari, Gatto, Eurich, McCauley, O'Connor, De Leo, & Micheli (2024). *Reef shark population declines on remote Pacific reefs: inferences from multiple methods in a data-limited fishery*, Marine Ecology Progres Series
+**Goodman**, White, Kazdan, Bradley, Shivji, Casagrandi, Mari, Gatto, Eurich, McCauley, O'Connor, De Leo, & Micheli (2024). *Reef shark population declines on remote Pacific reefs: inferences from multiple methods in a data-limited fishery*, Marine Ecology Progress Series
 
 <a href="https://doi.org/10.3354/meps14746"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
 <a href="https://github.com/mcgoodman/Teraina_reef_sharks"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a> 
