@@ -13,6 +13,7 @@ layout: single
   padding: 8px 24px;
   border-radius: 3px;
   background-color: white;
+  margin-bottom:10px;
 }
 
 .button_custom:hover {
@@ -26,6 +27,18 @@ layout: single
 <font size = "4">
 
 <h2> 2024 </h2>
+
+**Goodman**, Reum, Barnes, Punt, Ianelli, McHuron, De Leo, & Holsman (2024). *Climate covariate choice and uncertainty in projecting species range shifts: A case study in the Eastern Bering Sea*, Fish and Fisheries
+
+<a href="https://doi.org/10.1111/faf.12875"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
+<a href="https://github.com/mcgoodman/EBS_range_projections"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a> <b>&emsp;</b>
+<a href="https://mgoodman.shinyapps.io/aclim2_sdms_explorer/"><button class="btn btn-primary button_custom"><i class="fa fa-cloud"></i> Web App</button></a> <b>&emsp;</b>
+<a href="https://www.fisheries.noaa.gov/feature-story/some-fish-and-crab-may-shift-further-north-alaskan-waters-previously-predicted"><button class="btn btn-primary button_custom"><i class="fa fa-newspaper"></i> Press Release</button></a>
+
+**Goodman**, White, Kazdan, Bradley, Shivji, Casagrandi, Mari, Gatto, Eurich, McCauley, O'Connor, De Leo, & Micheli (2024). *Reef shark population declines on remote Pacific reefs: inferences from multiple methods in a data-limited fishery*, Marine Ecology Progres Series
+
+<a href="https://doi.org/10.3354/meps14746"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
+<a href="https://github.com/mcgoodman/Teraina_reef_sharks"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a> 
 
 Kumagai, **Goodman**, Villasenor-Derbez, Schoeman, Cavanuagh, Bell, Micheli, De Leo, & Arafeh-Dalmau (2024). *Marine protected areas that preserve trophic cascades promote resilience of kelp forests to marine heatwaves*, Global Change Biology
 
@@ -66,7 +79,8 @@ Faiad, Williams, **Goodman**, ..., Wood (2023). *Temperature affects predation o
 Andrzejaczek, Lucas, **Goodman**, ..., et al. (2022). *Diving into the vertical dimension of elasmobranch movement ecology*, Science Advances
 
 <a href="https://www.science.org/doi/full/10.1126/sciadv.abo1754"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
-<a href="https://github.com/mcgoodman/shark-vertical-overlap"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a>
+<a href="https://github.com/mcgoodman/shark-vertical-overlap"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a> <b>&emsp;</b>
+<a href="https://news.stanford.edu/stories/2022/08/scientists-take-deep-dive-sharks-use-ocean"><button class="btn btn-primary button_custom"><i class="fa fa-newspaper"></i> Press Release</button></a>
 
 
 McCalla, Phillips, Anderson, Voorhees, Siegler, Faulkenberry, **Goodman**, Deng, & Tjeerdema (2022). *Effectiveness of a Constructed Wetland with Carbon Filtration in Reducing Pesticides Associated with Agricultural Runoff*, Archives of Environmental Contamination and Toxicology
@@ -94,6 +108,7 @@ O’Leary, **Goodman**, Tuda, Machumu,  & West (2020). *Opportunities and challe
 Hart, **Goodman**, Walter, Rogers-Bennett, Shum, Garrett, Watanabe, & O'leary (2020). *Abalone Recruitment in Low-Density and Aggregated Populations Facing Climatic Stress*, Journal of Shellfish Research
 
 <a href="https://doi.org/10.2983/035.039.0218"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
+<a href="https://caseagrant.ucsd.edu/news/warmer-waters-threaten-red-abalone-recovery"><button class="btn btn-primary button_custom"><i class="fa fa-newspaper"></i> Press Release</button></a>
 
 <br/>
 
