@@ -42,7 +42,9 @@ layout: single
 
 Kumagai, **Goodman**, Villasenor-Derbez, Schoeman, Cavanuagh, Bell, Micheli, De Leo, & Arafeh-Dalmau (2024). *Marine protected areas that preserve trophic cascades promote resilience of kelp forests to marine heatwaves*, Global Change Biology
 
-<a href="https://doi.org/10.1111/gcb.17620"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a>
+<a href="https://doi.org/10.1111/gcb.17620"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
+<a href="https://news.stanford.edu/stories/2025/04/research-fishing-bans-kelp-forests-marine-heatwaves"><button class="btn btn-primary button_custom"><i class="fa fa-newspaper"></i> Press Release</button></a>
+
 
 Gissi, **Goodman**, Elahi, McDevitt-Irwin, Arnoldi, Arafeh-Dalmau, Knight, Jacobson, Palmisciano, Tillman, De Leo, & Micheli (2024). *Sex-specific variation in species interactions matters in ecological communities*, Trends in Ecology & Evolution
 

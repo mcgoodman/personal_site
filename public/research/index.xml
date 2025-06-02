@@ -4,35 +4,30 @@
     <title>What I Study on Maurice Goodman</title>
     <link>https://www.goodmanecology.com/research/</link>
     <description>Recent content in What I Study on Maurice Goodman</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.goodmanecology.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.goodmanecology.com/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forecasting species ranges and spatial overlap</title>
       <link>https://www.goodmanecology.com/research/bering_ch2-3/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.goodmanecology.com/research/bering_ch2-3/</guid>
-      <description>One of my main areas of interest is biogeography - where do we find marine species, what are the factors that control their distribution, and where might we find them in the future? As part of the ACLIM (Alaska Climate Integrated Modeling) series of projects led by researchers at NOAA’s Alaska Fisheries Science Center, I’m developing a suite of species distribution models for groundfish and crabs in the eastern Bering Sea region to support climate-ready fisheries management.</description>
+      <description>&lt;p&gt;One of my main areas of interest is biogeography - where do we find marine species, what are the factors that control their distribution, and where might we find them in the future? As part of the ACLIM (Alaska Climate Integrated Modeling) series of projects led by researchers at NOAA&amp;rsquo;s Alaska Fisheries Science Center, I&amp;rsquo;m developing a suite of species distribution models for groundfish and crabs in the eastern Bering Sea region to support climate-ready fisheries management. The EBS is an extensive, shallow (&amp;lt;200 m deep) marine ecosystem spanning 200 – 400 km bordered on the east by the coast of Alaska, and supporting over 40% of the annual fisheries landings in the United States. The dynamics of the Bering Sea ecosystem are tightly coupled to the annual extent and location of winter sea ice and the closely associated oceanographic feature known as the &amp;ldquo;cold pool,&amp;rdquo; a sometimes extensive - and in some recent years, entirely absent - region of the Bering shelf with bottom temperatures below 2°C (Kotwicki and Lauth 2013, Ortiz et al. 2016). While the cold pool creates a refuge from predators for some species (notably juvenile walleye pollock, &lt;em&gt;Gadus chalcogrammus&lt;/em&gt;, and snow crab, &lt;em&gt;Chionoecetes opilio&lt;/em&gt;), the cold pool forms a biogeographic barrier to the movements of other species (such as arrowtooth flounder, &lt;em&gt;Atheresthes stomas&lt;/em&gt;), creating structure in their spatial distributions which is otherwise unexplained by local environmental conditions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Predator-prey overlap and predation</title>
       <link>https://www.goodmanecology.com/research/bering_ch1/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.goodmanecology.com/research/bering_ch1/</guid>
-      <description>Many studies in marine ecosystems have documented species range shifts in response to climate change, and many more have used species distribution models to project species ranges under future conditions. More recently, multiple studies have employed projections from species distribution models to “rewire” food webs under future environmental changes, moving beyond a single-species focus to characterize ecosystem dynamics via changes in trophic interactions. Presumably, as the spatial overlap between fish and their predators changes over time, so too should predation rates (integrated across space) - but how well can we predict trophic interactions from predator-prey overlap?</description>
+      <description>&lt;style type=&#34;text/css&#34;&gt;&#xA;.button_custom {&#xA;  font-family: &#34;Commissioner&#34;;&#xA;  font-size: 18px;&#xA;  color: #242424;&#xA;  border: 1px solid #242424;&#xA;  padding: 8px 24px;&#xA;  border-radius: 3px;&#xA;  background-color: white;&#xA;}&#xA;&#xA;.button_custom:hover {&#xA;  background-color: #242424;&#xA;  color: white;&#xA;  border: 1px solid #242424;&#xA;  border-radius: 3px;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Many studies in marine ecosystems have documented species range shifts in  response to climate change, and many more have used species distribution models to  project species ranges under future conditions. More recently, multiple studies have employed projections from species distribution models to &amp;ldquo;rewire&amp;rdquo; food webs under future environmental changes, moving beyond a single-species focus to characterize ecosystem dynamics via changes in trophic interactions. Presumably, as the spatial overlap between fish and their predators changes over time, so too should predation rates (integrated across space) - but how well can we predict trophic interactions from predator-prey overlap?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Small-scale fisheries embedded in global trade networks</title>
       <link>https://www.goodmanecology.com/research/reef_sharks/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.goodmanecology.com/research/reef_sharks/</guid>
-      <description>Small-scale fisheries are immensely important for the livelihoods, nutrition, and cultural identities of millions of people around the world. However, the impacts of small-scale fisheries on vulnerable marine populations, such as sharks, are less well understood than those of industrial fisheries. Alongside colleagues, I’ve constructed a model to investingate the impacts of a small-scale reef shark fishery, parameterized with data from a Kiribati grey reef shark fishery where reef sharks have been harvested at relatively low rates for cultural and subsistence purposes for generations.</description>
+      <description>&lt;p&gt;Small-scale fisheries are immensely important for the livelihoods, nutrition, and cultural identities of millions of people around the world. However, the impacts of small-scale fisheries on vulnerable marine populations, such as sharks, are less well understood than those of industrial fisheries. Alongside colleagues, I&amp;rsquo;ve constructed a model to investingate the impacts of a small-scale reef shark fishery, parameterized with data from a Kiribati grey reef shark fishery where reef sharks have been harvested at relatively low rates for cultural and subsistence purposes for generations.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

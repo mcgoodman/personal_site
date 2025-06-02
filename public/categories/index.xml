@@ -4,7 +4,8 @@
     <title>Categories on Maurice Goodman</title>
     <link>https://www.goodmanecology.com/categories/</link>
     <description>Recent content in Categories on Maurice Goodman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.goodmanecology.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.goodmanecology.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
