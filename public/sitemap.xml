@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.goodmanecology.com/research/bering_ch2-3/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <loc>https://www.goodmanecology.com/research/biogeography/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.goodmanecology.com/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.goodmanecology.com/research/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.goodmanecology.com/research/predator-prey-ecology/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.goodmanecology.com/cv/</loc>
@@ -17,10 +20,7 @@
     <loc>https://www.goodmanecology.com/publications/</loc>
     <lastmod>2023-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.goodmanecology.com/research/bering_ch1/</loc>
-    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.goodmanecology.com/research/reef_sharks/</loc>
+    <loc>https://www.goodmanecology.com/research/fisheries-management/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.goodmanecology.com/contact/</loc>

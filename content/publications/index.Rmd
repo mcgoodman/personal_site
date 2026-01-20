@@ -4,26 +4,6 @@ date: 2023-10-02
 layout: single
 ---
 
-```{css echo = FALSE}
-.button_custom {
-  font-family: "Commissioner";
-  font-size: 18px;
-  color: #242424;
-  border: 1px solid #242424;
-  padding: 8px 24px;
-  border-radius: 3px;
-  background-color: white;
-  margin-bottom:10px;
-}
-
-.button_custom:hover {
-  background-color: #242424;
-  color: white;
-  border: 1px solid #242424;
-  border-radius: 3px;
-}
-```
-
 <font size = "4">
 
 <h2> 2025 </h2> 

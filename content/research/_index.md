@@ -1,7 +1,7 @@
 ---
 title: What I Study
 description: |
-  My research employs a mix of statistical and computational approaches to assess past change and forecast future change in marine ecosystems. Here are some of my current projects:
+  My research addresses questions within three broad areas:
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false

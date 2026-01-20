@@ -1,1 +1,59 @@
-// Override this file to add your own SCSS styling.
+
+.float img {
+  margin-bottom: 1rem;
+}
+
+.float .figcaption {
+  color: $highlightColor; 
+}
+
+.button_custom {
+  font-family: "Commissioner";
+  font-size: 18px;
+  color: $buttonBgColorCustom;
+  border: 1px solid $buttonBgColorCustom;
+  padding: 8px 24px;
+  border-radius: 3px;
+  background-color: $siteBgColorCustom;
+  margin-bottom:10px;
+}
+
+.button_custom:hover {
+  background-color: $buttonBgColorCustom;
+  color: white;
+  border: 1px solid $buttonBgColorCustom;
+  border-radius: 3px;
+}
+
+.post-body {
+  padding-top: 1rem;
+}
+
+hr {
+  background-color: $headlineColorCustom;
+  height: 2px;
+  border-style: none !important;
+  border: 0 !important;
+  outline: none !important;
+  margin: 0rem 0;
+}
+
+strong {
+  color: $highlightColor;
+}
+
+.blog-content .flex-column p.f6 {
+ font-size: 1.1rem !important;
+}
+
+.blog-intro p.f6.f5-ns {
+   font-size: 1.2rem !important;
+}
+
+.post-header h4.measure {
+   max-width: 80% !important;
+}
+
+.custom-image-width .float img {
+  width: 80% !important;
+}
