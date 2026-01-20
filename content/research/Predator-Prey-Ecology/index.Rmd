@@ -57,6 +57,7 @@ We found evidence of widespread sex-based variation in species interactions, and
 
 ![We examined these differences using Pacific coast kelp forests as a model. (A) A model of Northeast Pacific kelp forest ecosystems as a linear chain of trophic effects, where a reduction in kelp’s abundance was attributed to increased predation by killer whales on sea otters, a keystone predator that suppresses grazing outbreaks by urchin and thus deforestation. (B) Evolution of the model, updating the trophic cascade to reflect other species interactions and the role of bottom-up processes. (C) Emerging model with sex-specific variations in species interactions represented through existing empirical research for a composite food web of kelps in temperate regions. Black unbroken arrows represent trophic interactions, black broken arrows represent nontrophic interactions, and grey arrows represent known trophic interactions for which there is no evidence about sex-specific influences; thickness represents the intensity of effects by or on males and females.](Kelp_forest_web.png)
 
+<br/>
 
 ## Other research
 
@@ -66,9 +67,6 @@ Faiad, Williams, **Goodman**, ..., Wood (2023). *Temperature affects predation o
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290615"><button class="btn btn-primary button_custom"><i class="fa fa-file"></i> Paper</button></a> <b>&emsp;</b>
 <a href="https://github.com/wood-lab/Faiad_et_al_2023_PLoS_One"><button class="btn btn-primary button_custom"><i class="fa fa-code"></i> Code</button></a>
-
-<br/>
-
 
 Rempel, Bodwin, Burkepile, Adam, Altieri, Barton, **Goodman**, Lamore, Lippert, Marroquin, O'Rourke, VanderBloomer, & Ruttenberg (2024). *Ecological drivers of parrotfish predation vary across spatial scales*, Marine Ecology Progress Series
 
